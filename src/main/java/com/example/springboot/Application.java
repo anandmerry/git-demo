@@ -13,7 +13,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.out.println("Git Demo again");
+		System.out.println("Git Demo again - Phase2 branch");
 	}
 
 	@Bean
